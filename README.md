@@ -1,2 +1,2 @@
-# openblocksteam.github.io
-Website for OpenBlocks.
+# OpenBlocks Website
+Hello, welcome to our website, you can visit it at [openblocks.tk](https://openblocks.tk)
